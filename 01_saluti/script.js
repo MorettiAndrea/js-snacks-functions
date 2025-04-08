@@ -11,5 +11,3 @@ function sayHello(name) {
 console.log(sayHello("Mario"));
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
-
-// Ciao Mario
