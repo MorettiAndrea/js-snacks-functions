@@ -8,6 +8,6 @@ function sayHello(name) {
   return currentUser;
 }
 // Invoca la funzione qui e stampa il risultato in console
-console.log(sayHello("Mario"));
+console.log(sayHello(userName));
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
